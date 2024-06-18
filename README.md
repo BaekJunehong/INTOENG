@@ -4,8 +4,8 @@
 <img src="https://github.com/BaekJunehong/INTOENG/assets/101456289/a3d42e7d-4ee6-4978-9e80-eaa794b365d5" alt="image" width="800" height="450">
 
 ### 서비스 구성  
-
-<img src="https://github.com/BaekJunehong/INTOENG/assets/101456289/20284e2c-a804-4b1a-8024-7745c9a078a1" alt="image" width="800" height="450">
+<img src="https://github.com/BaekJunehong/INTOENG/assets/101456289/147b3d6a-f9e6-487c-8f68-50e6272abe32" alt="image" width="800" height="450">  
+<img src="https://github.com/BaekJunehong/INTOENG/assets/101456289/20284e2c-a804-4b1a-8024-7745c9a078a1" alt="image" width="800" height="450">  
 
 ### 데모 영상  
 
