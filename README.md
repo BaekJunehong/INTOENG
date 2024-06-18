@@ -3,7 +3,7 @@
 
 ![image](https://github.com/BaekJunehong/INTOENG/assets/101456289/a3d42e7d-4ee6-4978-9e80-eaa794b365d5)
 
-<img src="https://github.com/BaekJunehong/INTOENG/assets/101456289/a3d42e7d-4ee6-4978-9e80-eaa794b365d5" alt="image" width="700" height="400">
+<img src="https://github.com/BaekJunehong/INTOENG/assets/101456289/a3d42e7d-4ee6-4978-9e80-eaa794b365d5" alt="image" width="800" height="450">
 
 ### 서비스 구성  
 
