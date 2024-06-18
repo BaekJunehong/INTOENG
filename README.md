@@ -9,8 +9,7 @@
 
 ### 데모 영상  
 
-https://github.com/BaekJunehong/INTOENG/assets/101456289/3d62ee06-d01a-4947-ab69-2f16114436de
-
+https://github.com/BaekJunehong/INTOENG/assets/101456289/f2041c14-b78a-4501-ae9e-fa870333b678
 
 ### 실행방법  
 
