@@ -3,6 +3,15 @@
 
 ![image](https://github.com/BaekJunehong/INTOENG/assets/101456289/a3d42e7d-4ee6-4978-9e80-eaa794b365d5)
 
+### 서비스 구성  
+
+![image](https://github.com/BaekJunehong/INTOENG/assets/101456289/20284e2c-a804-4b1a-8024-7745c9a078a1)
+
+### 데모 영상  
+
+https://github.com/BaekJunehong/INTOENG/assets/101456289/3d62ee06-d01a-4947-ab69-2f16114436de
+
+
 ### 실행방법  
 
 > 1. client 디렉토리 => npm run start(안되면 npm install 하고 다시 실행)
