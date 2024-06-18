@@ -16,7 +16,7 @@
 
 ### 데모 영상  
 
-https://github.com/BaekJunehong/INTOENG/assets/101456289/f0908246-1874-4522-9ca0-1c284b2a8341
+https://github.com/BaekJunehong/INTOENG/assets/101456289/f0908246-1874-4522-9ca0-1c284b2a8341  
 
-<img src="https://github.com/BaekJunehong/INTOENG/assets/101456289/7b12ef4b-a3ab-4181-a185-5cd7b3bf303f" alt="image" width="800" height="450"> 
+<img src="https://github.com/BaekJunehong/INTOENG/assets/101456289/7b12ef4b-a3ab-4181-a185-5cd7b3bf303f" alt="image" width="800" height="450">   
 
