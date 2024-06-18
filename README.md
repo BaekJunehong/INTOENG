@@ -9,7 +9,7 @@
 
 ### 데모 영상  
 
-<img src="https://github.com/BaekJunehong/INTOENG/assets/101456289/f2041c14-b78a-4501-ae9e-fa870333b678" alt="image" width="800" height="450">
+https://github.com/BaekJunehong/INTOENG/assets/101456289/f0908246-1874-4522-9ca0-1c284b2a8341
 
 ### 실행방법  
 
