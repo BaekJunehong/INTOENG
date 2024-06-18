@@ -18,4 +18,5 @@ https://github.com/BaekJunehong/INTOENG/assets/101456289/f0908246-1874-4522-9ca0
 > 3. server/intoeng 디렉토리 => python manage.py runserver
 > 4. 웹주소로 [http://localhost:3000/test] 입력
 
-.
+<img src="https://github.com/BaekJunehong/INTOENG/assets/101456289/7b12ef4b-a3ab-4181-a185-5cd7b3bf303f" alt="image" width="800" height="450"> 
+
